@@ -57,3 +57,7 @@ Arabic, Chinese (Simplified), Chinese (Traditional), Dutch, English, French, Ger
 - [Website](https://notchlive.app)
 - [How to Use Guide](https://notchlive.app/how-to-use)
 - [Privacy Policy](https://notchlive.app/privacy)
+
+---
+
+Made by [Tiny Things](https://tinythings.app)
