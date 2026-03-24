@@ -60,4 +60,6 @@ Arabic, Chinese (Simplified), Chinese (Traditional), Dutch, English, French, Ger
 
 ---
 
-Made by [Tiny Things](https://tinythings.app)
+<p align="center">
+  Made by <a href="https://tinythings.app">Tiny Things</a>
+</p>
