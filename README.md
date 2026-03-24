@@ -1,6 +1,10 @@
-# NotchLive
+<p align="center">
+  <img src="assets/logo.png" width="128" alt="NotchLive">
+</p>
 
-**Real-time AI captions and translation, right in your MacBook's notch.**
+<h1 align="center">NotchLive</h1>
+
+<p align="center"><strong>Real-time AI captions and translation, right in your MacBook's notch.</strong></p>
 
 [Download Latest Release](https://github.com/lemberalla/notchlive-releases/releases/latest) · [Website](https://notchlive.app) · [How to Use](https://notchlive.app/how-to-use)
 
@@ -60,6 +64,4 @@ Arabic, Chinese (Simplified), Chinese (Traditional), Dutch, English, French, Ger
 
 ---
 
-<p align="center">
-  Made by <a href="https://tinythings.app">Tiny Things</a>
-</p>
+Made by [Tiny Things](https://tinythings.app)
