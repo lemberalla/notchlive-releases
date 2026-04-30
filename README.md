@@ -4,13 +4,13 @@
 
 <h1 align="center">NotchLive</h1>
 
-<p align="center"><strong>Real-time AI captions and translation, right in your MacBook's notch.</strong></p>
+<p align="center"><strong>Real-time AI captions, translation, and session dictation — right in your MacBook's notch.</strong></p>
 
 [Download Latest Release](https://github.com/lemberalla/notchlive-releases/releases/latest) · [Website](https://notchlive.app) · [How to Use](https://notchlive.app/how-to-use)
 
 ---
 
-NotchLive turns your MacBook's notch into a live caption display. Powered by on-device Whisper AI — everything stays on your Mac, nothing leaves.
+NotchLive turns your MacBook's notch into a live caption display and local speech-to-text workspace. Powered by on-device Whisper AI — everything stays on your Mac, nothing leaves.
 
 ## Features
 
@@ -19,7 +19,8 @@ NotchLive turns your MacBook's notch into a live caption display. Powered by on-
 - **5 AI Models** — From Tiny (fastest) to Large Turbo (most accurate)
 - **System Audio + Microphone** — Capture any app, your voice, or both
 - **Auto Language Detection** — Recognizes 90+ spoken languages
-- **Session Recording** — Record sessions and export transcripts (Pro)
+- **Voice Notes** — Dictate, clean up, save, export, and send notes to NotchPad (Pro)
+- **Session Recording** — Record sessions, keep Raw transcripts, generate AI dictation on demand, and export TXT/JSON (Pro)
 - **Keyboard Shortcuts** — Start, stop, and switch modes hands-free
 - **Works Without a Notch** — Caption bar appears at top center on any Mac
 
@@ -38,8 +39,9 @@ NotchLive turns your MacBook's notch into a live caption display. Powered by on-
 | System + mic audio | ✓ | ✓ |
 | Keyboard shortcuts | ✓ | ✓ |
 | Translation (20 languages) | | ✓ |
+| Voice Notes | | ✓ |
 | Session recording | | ✓ |
-| Transcript export | | ✓ |
+| Raw/AI transcript export | | ✓ |
 
 ## Privacy
 
