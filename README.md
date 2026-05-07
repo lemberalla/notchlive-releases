@@ -4,7 +4,7 @@
 
 <h1 align="center">NotchLive</h1>
 
-<p align="center"><strong>Real-time AI captions, translation, and session dictation — right in your MacBook's notch.</strong></p>
+<p align="center"><strong>Real-time AI captions, translation, and voice notes — right in your MacBook's notch.</strong></p>
 
 [Download Latest Release](https://github.com/lemberalla/notchlive-releases/releases/latest) · [Website](https://notchlive.app) · [How to Use](https://notchlive.app/how-to-use)
 
@@ -16,10 +16,10 @@ NotchLive turns your MacBook's notch into a live caption display and local speec
 
 - **Live Captions** — Real-time speech-to-text displayed in your notch
 - **20 Translation Languages** — Translate captions on the fly (macOS 15+)
-- **5 AI Models** — From Tiny (fastest) to Large Turbo (most accurate)
+- **6 AI Models** — Tiny, Base, Small, Medium, Large Turbo Compact, and Large Turbo
 - **System Audio + Microphone** — Capture any app, your voice, or both
 - **Auto Language Detection** — Recognizes 90+ spoken languages
-- **Voice Notes** — Dictate, clean up, save, export, and send notes to NotchPad (Pro)
+- **Voice Notes** — Dictate, clean up, translate, save, export, and send notes to NotchPad (Pro)
 - **Session Recording** — Record sessions, keep Raw transcripts, generate AI dictation on demand, and export TXT/JSON (Pro)
 - **Keyboard Shortcuts** — Start, stop, and switch modes hands-free
 - **Works Without a Notch** — Caption bar appears at top center on any Mac
@@ -43,9 +43,11 @@ NotchLive turns your MacBook's notch into a live caption display and local speec
 | Session recording | | ✓ |
 | Raw/AI transcript export | | ✓ |
 
+Team Pack license keys are available for teams that need 5, 10, or 25 activations.
+
 ## Privacy
 
-All speech recognition happens locally using Whisper AI via CoreML. No cloud processing, no account required, no data collection.
+All speech recognition happens locally using Whisper AI via CoreML. No cloud audio processing, no account required, and audio/transcripts stay on your Mac.
 
 ## Install
 
