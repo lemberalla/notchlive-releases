@@ -133,6 +133,7 @@ NotchLive includes a built-in update checker. You can also return to this reposi
 
 | Version | Highlights |
 |---|---|
+| [1.9.3](https://github.com/lemberalla/notchlive-releases/releases/tag/v1.9.3) | Clearer first-run model preparation, opt-in Launch at Login for new installs, and more reliable macOS application-switcher behavior |
 | [1.9.2](https://github.com/lemberalla/notchlive-releases/releases/tag/v1.9.2) | Long-session stabilization, sleep/wake audio recovery, Meeting Intelligence reliability, speech-model repair, and a better first run |
 | [1.9.1](https://github.com/lemberalla/notchlive-releases/releases/tag/v1.9.1) | Headless local MCP helper, finalized live-caption feed, broader client configuration, and clearer access controls |
 | [1.9.0](https://github.com/lemberalla/notchlive-releases/releases/tag/v1.9.0) | Speaker-aware meetings, participant review, Meeting Analytics, Raw/Clean transcripts, portable data, and MCP |
